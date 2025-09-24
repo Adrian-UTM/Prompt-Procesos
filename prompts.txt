@@ -5,3 +5,484 @@ Actualmente estas colaborando con la empresa `Messer`(nombre provisional) esta e
 Despliega en formato de tabla todos los resultados de las plataformas o apps que encuentres similares a la problemática descrita, incluye el nombre de la plataforma, una lista de bullet points con sus principales procesos, por cada proceso incluye su objetivo, una descripción corta y los nombres de los subprocesos que incluiría. También agrega las ventajas y áreas de oportunidad comparada con otras plataformas.
 
 Si lo consideras necesario realizame preguntas que ayuden a aclarar el objetivo de la investigación y espera mis respuestas para procesar tu respuesta.
+
+
+
+
+
+Eres un experto en diseño de productos digitales y desarrollo de software, con un enfoque en la experiencia del usuario (UX/UI). Tu tarea es investigar y analizar plataformas de software que aborden la problemática de "optimisar software de restaurantes"
+Tambien debemos identificar software que identifique y proporcione soluciones similares a esta propuesta
+
+El resultado deberá presentarse en un formato de tabla que incluya:
+
+- Nombre de la plataforma
+- Lista de bullet points con los principales procesos, que debe incluir:
+    - Objetivo de cada proceso
+    - Descripción corta
+    - Nombres de los subprocesos involucrados
+- Ventajas y áreas de oportunidad en comparación con otras plataformas.
+
+Si consideras necesario, realiza preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+
+1. Genera una Fuente
+- Exporta a un archivo pdf el resultado de la tabla
+
+
+
+### Prompt de obtención de procesos
+
+Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar `[Optimisar el procesos de restaurantes como la toma de pedidos usando sftware  para agilisar el proceso y mejorar la experiencia]` mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+
+Por favor presenta la información en el siguiente formato estructurado:
+
+1. **Objetivo**: Define la meta principal de cada proceso.
+2. **Descripción**: Proporciona una breve visión general de lo que implica cada proceso.
+3. **Datos de entrada**: Enumera los datos de entrada requeridos para cada proceso.
+4. **Resultado de salida**: Especifica el resultado esperado de cada proceso.
+5. **Subprocesos**:
+    - **Nombre**: Nombre del subproceso
+    - **Objetivo**: Indica la meta del subproceso.
+    - **Descripción**: Da una breve descripción del subproceso.
+    - **Pasos**: Describe los pasos involucrados en el subproceso.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+
+Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+
+
+
+### Guía de uso
+
+1. Agregar fuentes
+    - Utiliza la herramienta descubrir utilizando el siguiente mensaje: Características  y manual de usuario del software `[Messer]`
+2. Utiliza la platilla del prompt para generar los procesos
+    
+    Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar la gestión de voluntarios y la recopilación de datos de campo mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+    
+    Por favor presenta la información en el siguiente formato estructurado:
+    
+    1. **Objetivo**: Define la meta principal de cada proceso.
+    2. **Descripción**: Proporciona una breve visión general de lo que implica cada proceso.
+    3. **Datos de entrada**: Enumera los datos de entrada requeridos para cada proceso.
+    4. **Resultado de salida**: Especifica el resultado esperado de cada proceso.
+    5. **Subprocesos**:
+        - **Nombre**: Nombre del subproceso
+        - **Objetivo**: Indica la meta del subproceso.
+        - **Descripción**: Da una breve descripción del subproceso.
+        - **Pasos**: Describe los pasos involucrados en el subproceso.
+    
+    Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+    
+    Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+    
+3. Genera una nota con el resultado del prompt
+
+
+
+
+### Prompt de obtención de procesos
+
+Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar `[el proceso por el cual los restaurantes toman ordenes a los clientes brindandoles una mejor experiencia y mayor eficiencia]` mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+
+Por favor presenta la información en el siguiente formato estructurado:
+
+1. **Objetivo**: Define la meta principal de cada proceso.
+2. **Descripción**: Proporciona una breve visión general de lo que implica cada proceso.
+3. **Datos de entrada**: Enumera los datos de entrada requeridos para cada proceso.
+4. **Resultado de salida**: Especifica el resultado esperado de cada proceso.
+5. **Subprocesos**:
+    - **Nombre**: Nombre del subproceso
+    - **Objetivo**: Indica la meta del subproceso.
+    - **Descripción**: Da una breve descripción del subproceso.
+    - **Pasos**: Describe los pasos involucrados en el subproceso.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+
+Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+
+
+
+
+### Guía de uso
+
+1. Agregar fuentes
+    - Utiliza la herramienta descubrir utilizando el siguiente mensaje: Características  y manual de usuario del software `[Messe]`
+2. Utiliza la platilla del prompt para generar los procesos
+    
+    Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar la gestión de voluntarios y la recopilación de datos de campo mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+    
+    Por favor presenta la información en el siguiente formato estructurado:
+    
+    1. **Objetivo**: Define la meta principal de cada proceso.
+    2. **Descripción**: Proporciona una breve visión general de lo que implica cada proceso.
+    3. **Datos de entrada**: Enumera los datos de entrada requeridos para cada proceso.
+    4. **Resultado de salida**: Especifica el resultado esperado de cada proceso.
+    5. **Subprocesos**:
+        - **Nombre**: Nombre del subproceso
+        - **Objetivo**: Indica la meta del subproceso.
+        - **Descripción**: Da una breve descripción del subproceso.
+        - **Pasos**: Describe los pasos involucrados en el subproceso.
+    
+    Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+    
+    Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+    
+3. Genera una nota con el resultado del prompt
+
+
+
+
+
+### Prompt para obtener listado de pantallas
+
+Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[crear un software que ayude a agilisar procesos en restaurantes como el pedido de la orden]` a través de un proceso bien estructurado.
+
+Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[tomar la orden del cliente mostrandole las opciones y las variaciones y todo lo que puede pedir, enviar la orden al chef y calcular el costo]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+
+Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
+
+`[Toma de ordenes en restaurantes]`
+
+Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[Clientes y empleados del restaurante]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[agilisar el proceso de pedir ordenes para restaurantes]`.
+
+
+
+
+Guía de uso
+
+Ingresa al chat que usaste al principio
+
+Utiliza la plantilla del prompt para tener la estructura base de las pantallas
+
+Eres un Product Designer experto con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI.
+Tu función es diseñar una serie de pantallas que faciliten la gestión de pedidos y la comunicación en restaurantes, optimizando el proceso de toma de órdenes y mejorando la experiencia tanto de los clientes como de los empleados.
+
+Quiero crear una interfaz de usuario integral para una aplicación móvil llamada Messer, destinada a que los clientes puedan realizar pedidos directamente desde su mesa, visualizar opciones de menú, calcular costos en tiempo real y enviar las órdenes automáticamente a la cocina o al personal encargado.
+Esta es mi situación: necesito desarrollar una aplicación móvil que permita a los restaurantes agilizar el proceso de pedidos, sincronizar la información al instante e incorporar geolocalización interna y marcas de tiempo para monitorear cada etapa. La aplicación debe ofrecer una experiencia fluida y rápida para clientes y empleados, reduciendo errores y mejorando los tiempos de servicio.
+
+Quiero que generes una lista secuencial de pantallas que respalden los procesos principales descritos a continuación:
+
+Elemento	Detalle
+Objetivo	Agilizar el proceso de pedidos en restaurantes, permitiendo a los clientes hacer órdenes desde la app, calcular costos en tiempo real y enviar las órdenes automáticamente a la cocina, mejorando la eficiencia y la experiencia de servicio.
+Descripción	Esta es la fase de ejecución, donde los clientes utilizan una aplicación móvil para explorar el menú, personalizar su pedido y enviarlo de inmediato a la cocina. El sistema registra la actividad en tiempo real, incluyendo hora del pedido, mesa y estatus de preparación.
+Datos de entrada	Menú digital con precios y opciones personalizables, datos de mesa o cliente, dispositivos móviles (propios del cliente o del restaurante).
+Resultado de salida	Pedidos registrados y sincronizados en tiempo real, con actualización de estatus (en preparación, listo, entregado) para el cliente y el personal del restaurante.
+Subproceso 1	Nombre: Exploración y Selección de Menú
+	Objetivo: Permitir que el cliente visualice y seleccione los platillos de manera intuitiva.
+	Descripción: Ofrecer un menú digital organizado por categorías, con fotos, descripciones y opciones de personalización (ingredientes, tamaños, extras).
+	Pasos: 1. El cliente accede al menú digital (por QR o desde la app). 2. Explora categorías y platillos. 3. Selecciona opciones y personaliza el pedido.
+Subproceso 2	Nombre: Pedido y Confirmación
+	Objetivo: Registrar el pedido del cliente y enviarlo directamente a la cocina o encargado.
+	Descripción: La aplicación muestra un resumen del pedido con costos calculados en tiempo real y solicita confirmación antes de enviarlo.
+	Pasos: 1. El cliente revisa el resumen del pedido. 2. Confirma la orden y el sistema envía la información a la cocina. 3. La app registra la hora, mesa y detalles.
+Subproceso 3	Nombre: Seguimiento y Entrega
+	Objetivo: Mantener informado al cliente y al personal del restaurante sobre el progreso del pedido.
+	Descripción: Mostrar el estado del pedido (en preparación, listo para servir, entregado) en tiempo real tanto para el cliente como para los meseros, optimizando tiempos y coordinación.
+	Pasos: 1. La cocina actualiza el estado de la orden. 2. El cliente y el mesero reciben notificaciones en la app. 3. Se registra la entrega final con hora y mesa.
+
+Quiero que crees una lista detallada de pantallas que respalden los objetivos y subprocesos anteriores, asegurando una experiencia intuitiva y eficiente para los clientes y empleados.
+Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de la gestión de pedidos y optimización del servicio.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo del diseño y espera mis respuestas para proceder con el análisis.
+
+Exporta el resultado a un archivo
+
+
+
+
+
+Prompt para generar el sistema de diseño de la aplicación móvil Messer
+
+Eres un diseñador UI/UX experto especializado en aplicaciones móviles, reconocido por crear interfaces audaces que priorizan la simplicidad y la coherencia, siempre con un enfoque mobile-first. Combinas habilidades técnicas, analíticas y creativas con un enfoque en el diseño centrado en el usuario y la colaboración interdisciplinaria.
+Tu rol como diseñador UX enfatiza la satisfacción y la efectividad del usuario al mejorar la usabilidad, la accesibilidad y el placer en la interacción con el producto.
+Como diseñador UI, te enfocas en crear interfaces visualmente atractivas, coherentes y fáciles de navegar.
+
+Quiero desarrollar un sistema de diseño integral para la aplicación móvil Messer.
+Esta aplicación está pensada para optimizar los procesos de pedidos en restaurantes, permitiendo que los clientes hagan órdenes directamente desde su mesa, calculen costos en tiempo real y envíen las solicitudes automáticamente a la cocina o al personal encargado. Messer también brinda a los meseros y administradores una herramienta de monitoreo en tiempo real, reduciendo errores y mejorando la velocidad del servicio.
+El diseño debe priorizar la experiencia del usuario, la accesibilidad, la eficiencia energética y la rapidez de interacción, incorporando gestos simples y notificaciones claras para clientes y empleados.
+
+Esto es lo que necesito:
+De acuerdo al objetivo principal de agilizar pedidos y mejorar la experiencia de servicio, se debe generar un sistema de diseño que incorpore un estilo visual moderno y funcional, caracterizado por maquetados minimalistas, un enfoque en la tipografía, microinteracciones sutiles y el uso de ilustraciones atractivas, gradientes suaves y elementos gráficos que evoquen frescura y dinamismo propios de un entorno gastronómico.
+Las paletas de color deben estimular el apetito y transmitir confianza, a la vez que garanticen un contraste accesible para todo tipo de usuarios.
+El diseño debe priorizar la accesibilidad y la sostenibilidad, incluyendo compatibilidad con comandos de voz, opciones manos libres, contrastes de color que cumplan estándares de accesibilidad, modo oscuro y optimización para un consumo energético reducido.
+
+Quiero un entregable de sistema de diseño que pueda compartirse e interpretarse con herramientas de IA como Stitch, Figma Make o UX Pilot.
+Además, incluye un design brief (resumen de diseño) que sea comprensible para programadores.
+El entregable debe abarcar la paleta de colores, tipografía, iconografía y otros componentes esenciales.
+La base se fundamentará en el sistema de diseño Material 3 Expressive de Google combinado con elementos del Fluent Design System de Apple (Liquid Glass) para lograr una experiencia visual fresca y sofisticada.
+
+Quiero que sigas estos pasos para crear el sistema de diseño:
+
+Define la paleta de colores con códigos específicos y sus asociaciones emocionales (por ejemplo, colores cálidos que estimulen el apetito y transmitan hospitalidad).
+
+Especifica las elecciones tipográficas, incluyendo estilos de fuente, tamaños y guías de uso que garanticen legibilidad en entornos de baja iluminación.
+
+Crea un set completo de iconografía alineado con el tema de restaurantes, pedidos y cocina en tiempo real.
+
+Desarrolla las especificaciones de componentes para los elementos clave de UI, como botones, campos de entrada, tarjetas de platillos, menús de navegación y estados de pedido.
+
+Define las características de accesibilidad, incluyendo comandos de voz, contraste de color y navegación manos libres para clientes y personal con movilidad reducida.
+
+Incluye pautas de sostenibilidad, como el uso de modo oscuro, reducción de animaciones pesadas y optimización de recursos para prolongar la batería en dispositivos móviles.
+
+Prepara un design brief claro y conciso para desarrolladores, detallando consideraciones de implementación y asegurando consistencia en todas las plataformas.
+
+Usa un tono claro y orientado a la acción para garantizar que todos los elementos estén alineados con la visión de Messer:
+reducir tiempos de espera, mejorar la experiencia del cliente y simplificar las tareas del personal de restaurante.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo del diseño y espera mis respuestas para proceder con el análisis.
+
+
+
+
+
+
+Guía de uso
+
+Abre tu ventana de chat inicial
+
+Utiliza el siguiente prompt
+
+Eres un diseñador UI/UX experto especializado en aplicaciones móviles, reconocido por crear interfaces audaces que priorizan la simplicidad y la coherencia, siempre con un enfoque mobile-first.
+Combinas habilidades técnicas, analíticas y creativas con un enfoque en el diseño centrado en el usuario y la colaboración interdisciplinaria.
+Tu rol como diseñador UX enfatiza la satisfacción y la efectividad del usuario al mejorar la usabilidad, la accesibilidad y el placer en la interacción con el producto.
+Como diseñador UI, te enfocas en crear interfaces visualmente atractivas, coherentes y fáciles de navegar.
+
+Quiero desarrollar un sistema de diseño integral para la aplicación móvil Messer.
+Esta aplicación se caracteriza por una integración inteligente de tecnologías de pedidos en tiempo real, personalización avanzada mediante inteligencia artificial, y un enfoque en la experiencia del usuario, la accesibilidad y la sostenibilidad.
+Las interfaces deben ser intuitivas, utilizando gestos simples, notificaciones claras y posibilidad de comandos de voz, mientras que el diseño debe enfatizar la funcionalidad, la velocidad y la eficiencia energética.
+
+Objetivo del proceso:
+Agilizar y optimizar el proceso de pedidos en restaurantes, permitiendo a los clientes realizar sus órdenes directamente desde la mesa, calcular costos en tiempo real y enviar las solicitudes automáticamente a la cocina o al personal encargado, mejorando la experiencia de servicio y reduciendo errores.
+
+Descripción del proceso:
+Esta es la fase de ejecución, donde los clientes utilizan una aplicación móvil para explorar el menú, personalizar su pedido y enviarlo en tiempo real.
+La aplicación registra la actividad, muestra el estado del pedido (en preparación, listo, entregado) e integra funciones de geolocalización interna o identificación por mesa, así como marcas de tiempo para monitorear cada etapa del servicio.
+
+Esto es lo que necesito:
+Analiza el objetivo y la descripción de la aplicación para generar un sistema de diseño que incorpore un estilo visual moderno y funcional, caracterizado por maquetados minimalistas, un enfoque en la tipografía, microinteracciones sutiles, y el uso de ilustraciones atractivas, gradientes suaves y elementos gráficos que transmitan frescura, apetito y dinamismo.
+Las paletas de color deben evocar sensaciones de confianza, energía y hospitalidad, asegurando un contraste accesible para todo tipo de usuarios.
+El diseño debe priorizar la accesibilidad y la sostenibilidad, incluyendo comandos de voz, interfaces manos libres y contrastes de color que cumplan con los estándares de accesibilidad, además de optimizar el consumo de energía mediante modo oscuro, carga eficiente y reducción de animaciones pesadas.
+
+Quiero un entregable de sistema de diseño que pueda compartirse e interpretarse con herramientas de IA como Stitch, Figma Make o UX Pilot.
+Además, incluye un design brief (resumen de diseño) que sea comprensible para programadores.
+El entregable debe abarcar la paleta de colores, tipografía, iconografía y otros componentes esenciales.
+La base se fundamentará en el sistema de diseño Material 3 Expressive de Google.
+
+Quiero que sigas estos pasos para crear el sistema de diseño:
+
+Define la paleta de colores con códigos específicos y sus asociaciones emocionales (por ejemplo, tonos cálidos que estimulen el apetito, combinados con colores neutros para dar confianza).
+
+Especifica las elecciones tipográficas, incluyendo estilos de fuente, tamaños y guías de uso que aseguren legibilidad incluso en entornos con poca luz (propios de restaurantes).
+
+Crea un set completo de iconografía alineado con el tema de restaurantes, pedidos, cocina y servicio en tiempo real.
+
+Desarrolla las especificaciones de componentes para los elementos clave de UI, como botones, tarjetas de platillos, campos de entrada, menús de navegación, estados de pedido y confirmación.
+
+Define las características de accesibilidad, incluyendo opciones de comandos de voz, navegación manos libres y especificaciones de contraste de color.
+
+Incluye pautas para integrar elementos de sostenibilidad dentro del diseño, como modo oscuro, carga eficiente y reducción de animaciones pesadas para optimizar el consumo energético.
+
+Prepara un design brief claro y conciso para desarrolladores, detallando consideraciones de implementación y asegurando que todos los elementos sean consistentes en todas las plataformas.
+
+Usa un tono claro y orientado a la acción para asegurar que todos los elementos estén alineados con la visión general de Messer y mejoren la experiencia del cliente y del personal del restaurante.
+
+Exportar a un documento el resultado del prompt.
+
+
+
+
+
+
+
+Prompt para generar diseño de pantalla
+
+Como experto en diseño de UI/UX en aplicaciones móviles, en tus diseños te caracterizas por mantener interfaces atrevidas pero simples, que promueven siempre una interfaz clara y coherente, con un enfoque mobile-first.
+Combinas tus habilidades técnicas, analíticas y creativas con un enfoque centrado en el usuario y la colaboración interdisciplinaria.
+Como diseñador UX, te enfocas en la satisfacción y eficacia del usuario final mediante la mejora de la usabilidad, accesibilidad y placer en la interacción con el producto, mientras que como diseñador UI te especializas en el diseño visual de interfaces, asegurando que sean intuitivas, consistentes y fáciles de navegar.
+
+Actualmente tienes la tarea de generar las indicaciones para crear una interfaz de usuario para la aplicación móvil Messer, utilizando una herramienta de IA como Stitch, Figma Make o UX Pilot.
+
+El proceso para el cual vas a diseñar la interfaz es el siguiente:
+Agilizar y optimizar el proceso de pedidos en restaurantes, permitiendo a los clientes explorar el menú, personalizar su orden, calcular el costo en tiempo real y enviarla directamente a la cocina o al personal encargado, mostrando el estado del pedido (en preparación, listo, entregado) en tiempo real.
+
+Utilizando la siguiente descripción:
+Diseñar una pantalla de pedido donde el cliente pueda ver las categorías del menú, explorar platillos, personalizar cada selección (ingredientes, tamaño, extras), revisar un resumen del pedido con el costo total y confirmar la orden.
+
+Analiza los pasos del proceso proporcionado y genera una descripción de un solo párrafo que explique la estructura de la UI.
+En un apartado independiente, agrega una descripción detallada de la interfaz de usuario, incluyendo todos los elementos de la pantalla y los bloques de contenido de arriba a abajo.
+Solo debes centrarte en la estructura de los componentes de la UI, por ahora no te preocupes por el estilo ni menciones propiedades visuales: únicamente necesitamos la arquitectura funcional de la pantalla.
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas de aclaración sobre el objetivo o el flujo del pedido y espera mis respuestas antes de proceder con el análisis.
+
+
+
+
+
+Ejemplo de uso de prompt
+
+Como experto en diseño de UI/UX en aplicaciones móviles, en tus diseños te caracterizas por mantener interfaces atrevidas que promueven siempre el uso de una interfaz sencilla, con un diseño coherente y siempre pensando primero en móvil.
+Combinas tus habilidades técnicas, analíticas y creativas con un enfoque centrado en el usuario y la colaboración interdisciplinaria.
+Como diseñador UX, te enfocas en la satisfacción y eficacia del usuario final mediante la mejora de la usabilidad, accesibilidad y placer en la interacción con el producto, mientras que como diseñador UI te especializas en el diseño visual de interfaces, asegurando que sean estéticamente atractivas, coherentes y fáciles de navegar.
+
+Actualmente tienes la tarea de generar las indicaciones para crear una interfaz de usuario para la aplicación móvil Messer utilizando una herramienta de IA como Stitch, Figma Make o UX Pilot.
+
+El proceso para el cual vas a diseñar la interfaz es el siguiente: Inicio de Sesión y Autenticación de Clientes y Personal utilizando la siguiente descripción:
+
+Descripción y Propósito:
+Es el primer punto de contacto del cliente o del personal del restaurante con la aplicación.
+Debe ser una pantalla segura, clara y sencilla para garantizar un acceso rápido, fluido y sin complicaciones, incluso en ambientes de restaurante con alto movimiento.
+
+Características y Funcionalidades Clave:
+
+Campos de Entrada:
+
+Correo electrónico o número de mesa para clientes.
+
+Usuario/ID de empleado para meseros, chefs o administradores.
+
+Contraseña.
+
+Botón de Acción Principal (CTA): "Iniciar Sesión".
+
+Opciones de Soporte: Enlace "¿Olvidaste tu contraseña?" para recuperación de cuenta.
+
+Seguridad: Mensajes de error claros para credenciales incorrectas o conexiones fallidas.
+
+Modo Invitado (opcional): Botón para continuar como invitado cuando el restaurante permita pedidos sin registro.
+
+Recordarme: Opción para agilizar futuros inicios de sesión en el mismo dispositivo.
+
+Analiza los pasos del proceso proporcionado y genera una descripción de un solo párrafo que describa la UI.
+En un apartado independiente, agrega la descripción detallada de la interfaz de usuario, incluyendo todos los elementos de la interfaz y los bloques de contenido de arriba a abajo.
+Solo debes centrarte en la estructura de los componentes de la UI, por ahora no te preocupes por el estilo ni menciones propiedades visuales; solo necesitamos la arquitectura funcional de la pantalla.
+
+Respuestas a preguntas:
+
+Nivel de Fidelidad (Estructura/Wireframe vs. Detalle):
+Aunque el enfoque es en la estructura, ¿deseas que la interfaz se describa para un wireframe de baja fidelidad (solo estructura y jerarquía de bloques), o deseas incluir detalles de componentes de nuestro sistema de diseño, lo que sería más cercano a un prototipo de alta fidelidad (pero aún sin propiedades visuales específicas como color o tipografía, más allá de sus roles)?
+
+Respuesta: Si cuentas con el sistema de diseño de Messer, toma el enfoque de un prototipo de alta fidelidad e incluye todos los detalles posibles para garantizar el mejor diseño.
+
+Tema de la Interfaz:
+El sistema de diseño de Messer es compatible con temas claro y oscuro.
+Para esta pantalla inicial de autenticación, ¿debemos priorizar la estructura para un entorno de tema Claro o de tema Oscuro? (Esta elección afecta las jerarquías de contraste y legibilidad).
+
+Respuesta: Si tienes la información del sistema de diseño, siempre prioriza el uso del tema oscuro, ideal para restaurantes con iluminación tenue.
+
+Componente "Recordarme":
+Para la funcionalidad de "Recordarme" (agilizar futuros inicios de sesión), ¿se debe utilizar un Checkbox (casilla de verificación) o un Toggle Switch (interruptor deslizante)? (Esta elección define el componente específico y su interacción).
+
+Respuesta: Preferiría el uso de un Toggle Switch, aunque la recomendación general es utilizar el componente recomendado por las tendencias de diseño actuales en aplicaciones móviles.
+
+Este prompt permitirá que la IA genere indicaciones precisas para diseñar la pantalla de inicio de sesión de Messer, asegurando que la estructura cumpla con los requisitos de usabilidad, accesibilidad y eficiencia propios de un entorno de restaurante.
+
+
+
+
+
+
+Prompt para Stitch
+
+Te comparto el sistema de diseño para generar la aplicación móvil Messer.
+De momento, analiza la información y guárdala en tu memoria para la construcción de las interfaces que te voy a solicitar más adelante:
+
+La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de alta fidelidad.
+
+Hemos confirmado tres puntos clave que ahora se integran en el prompt final:
+
+Fidelidad y Tema:
+Se prioriza un prototipo de Alta Fidelidad bajo el Tema Oscuro, ideal para entornos de restaurante con iluminación tenue.
+
+Logo:
+El Logo de Messer debe ser prominente en el encabezado de las pantallas principales (inicio de sesión, menú, seguimiento de pedidos) para reforzar la identidad de marca y generar confianza en clientes y personal.
+
+Componente “Recordarme”:
+Se utilizará un Toggle Switch (interruptor deslizante) posicionado debajo del campo de contraseña en la pantalla de autenticación, alineado con las mejores prácticas de UI móvil para agilizar futuros inicios de sesión en el mismo dispositivo.
+
+A continuación, se presentará en las siguientes solicitudes:
+
+Descripción de la UI en un solo párrafo para cada pantalla clave (Inicio de sesión, Menú interactivo, Resumen de pedido, Seguimiento en tiempo real).
+
+El prompt estructurado con el detalle final de los componentes, garantizando consistencia con el sistema de diseño y facilitando la construcción en herramientas de IA como Stitch, Figma Make o UX Pilot.
+
+
+
+
+
+
+Descripción de la UI (Párrafo Único – Adaptado a Messer)
+
+La pantalla de autenticación será un prototipo de alta fidelidad adherido estrictamente al Tema Oscuro del sistema de diseño de Messer, creado 
+bajo principios de minimalismo digital para garantizar seguridad, claridad y una interacción fluida incluso en ambientes de 
+restaurante. El diseño seguirá el enfoque mobile-first, comenzando con la visualización del logotipo de Messer en el encabezado 
+para reforzar la identidad de marca y generar confianza. El contenido central estará orientado a la autenticación, presentando un 
+título de bienvenida y dos campos de entrada delineados (textField.outlined) para el Usuario/Correo o Número de Mesa y la Contraseña. 
+Justo debajo del campo de contraseña se integrará un Toggle Switch para la función “Recordarme”, alineado con los controles del 
+formulario y cumpliendo con el tamaño de objetivo táctil mínimo de 48x48 dp para mayor accesibilidad. La acción de acceso se completará
+ con un botón principal de relleno (button.filled) con forma de píldora (shape.corner.full) ubicado cerca del borde inferior para 
+ facilitar el alcance con una sola mano, acompañado de un enlace de soporte para recuperación de cuenta o asistencia rápida.
+
+
+
+
+
+ Indicación Detallada de la Interfaz de Usuario (Prompt Estructurado para IA – Adaptado a Messer)
+
+Utilizaremos la estructura de prompt recomendada (similar a ASPECCT o CTF) para garantizar que la herramienta de IA (Stitch, Figma Make, UX Pilot) genere un resultado de alta fidelidad:
+
+Rol:
+Actúa como un diseñador UX/UI Senior, especializado en aplicaciones mobile-first con el Messer Design System (MDS).
+
+Tarea:
+Generar el prototipo de alta fidelidad para la pantalla de Inicio de Sesión y Autenticación de la aplicación móvil Messer.
+
+Contexto y Restricciones:
+
+Tema: Usar el Tema Oscuro (dark) del MDS, optimizado para ambientes de restaurante con iluminación tenue.
+
+Tokens: Referenciar todos los elementos con los tokens de MDS (por ejemplo: shape.corner.full, color.dark.primaryContainer, text.title.large).
+
+Accesibilidad: Asegurar que todos los elementos táctiles, incluido el Toggle Switch, cumplan con el tamaño mínimo de 48x48dp para interacción segura y cómoda.
+
+Espaciado: Utilizar el token de espaciado spacing.m (16dp) para la separación vertical de los bloques principales.
+
+Identidad de marca: El logo de Messer debe aparecer destacado en el encabezado para reforzar el reconocimiento de marca.
+
+Estructura de Componentes de UI (de Arriba a Abajo)
+
+Encabezado
+
+image.logo.primary (Logo de Messer centrado).
+
+text.title.large (Mensaje de bienvenida o nombre de la app).
+
+Formulario de Autenticación
+
+textField.outlined – Usuario/Correo o Número de Mesa.
+
+textField.outlined – Contraseña (con opción de mostrar/ocultar).
+
+toggle.switch – Recordarme (alineado a la derecha del bloque de contraseña).
+
+Acciones Primarias
+
+button.filled – Iniciar Sesión (forma de píldora shape.corner.full).
+
+text.link – ¿Olvidaste tu contraseña? (enlace de soporte).
+
+button.outlined (opcional) – Ingresar como invitado si el restaurante permite pedidos sin registro.
+
+Mensajes de Estado
+
+text.helper para mostrar errores de validación (credenciales incorrectas, conexión fallida).
+
+Footer (Opcional)
+
+text.caption – Mensaje legal o de privacidad, usando spacing.m para mantener la separación con el botón principal.
+
+
+
+
+
+
